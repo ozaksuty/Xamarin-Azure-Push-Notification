@@ -1,0 +1,10 @@
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\bin\Debug\netstandard2.0\AcikAkademiPN.deps.json
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\bin\Debug\netstandard2.0\AcikAkademiPN.dll
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\bin\Debug\netstandard2.0\AcikAkademiPN.pdb
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.App.xaml.g.cs
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.MainPage.xaml.g.cs
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.dll
+C:\Users\Yigit\source\repos\AcikAkademiPN\AcikAkademiPN\AcikAkademiPN\obj\Debug\netstandard2.0\AcikAkademiPN.pdb
