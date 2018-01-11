@@ -1,4 +1,5 @@
 # Xamarin Forms Azure Push Notification
+## Apple sertifika süreçlerini baştan sona sorunsuz bir şekilde tamamlayabilirsiniz.
 ## Android Firebase projesi oluşturmak için: https://console.firebase.google.com
 ## Azure Notification Hub oluşturmak için: https://portal.azure.com
 ## Düzenlenmesi gereken alanlar;
